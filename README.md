@@ -42,6 +42,8 @@ https://web.microsoftstream.com/video/647dd4f3-a2d2-49b0-b257-2418895d19c8
 
 ## ACSE2 L11
 PS: Teacher Forgot to start the recording until half hour after.
+
+
 https://web.microsoftstream.com/video/43953e49-ba1f-4fa6-be05-e4628bb89e9c
 
 ## ACSE2 L10
