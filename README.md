@@ -1,6 +1,85 @@
 # ACSE_Recordings
 The recording links of ACSE20
 
+## ACSE3 L12
+https://web.microsoftstream.com/video/e2b84089-e85f-44a5-9bba-38c7c92bef78
+
+
+https://web.microsoftstream.com/video/f3243753-4d92-482b-abe9-eaa6b8e9ea58
+
+
+https://web.microsoftstream.com/video/abe4c5eb-fb73-4b4e-b834-e6dcbb08e757
+
+## ACSE3 L11
+https://web.microsoftstream.com/video/1771ca86-bfb9-4c50-be6e-879476a809c0
+
+
+https://web.microsoftstream.com/video/cd8204d6-eabb-4c3f-a22b-4756ee642252
+
+
+https://web.microsoftstream.com/video/d4212f08-87a1-4386-a7d8-83d17193283c
+
+## ACSE3 L10
+
+https://web.microsoftstream.com/video/9fae9f1b-8e11-4270-a645-0b4e47ee9fc1
+
+
+https://web.microsoftstream.com/video/69e9cedb-9a7d-45ac-a323-062bd05a3676
+
+
+https://web.microsoftstream.com/video/d40ebebc-b664-4464-bd82-9aae77973266
+
+
+
+## ACSE3 L9
+
+https://web.microsoftstream.com/video/1958e418-f2d9-4e70-a596-784ba4cc28b7
+
+
+https://web.microsoftstream.com/video/259f17e8-b03d-4536-a3a7-cd87582e1e42
+
+
+https://web.microsoftstream.com/video/9e3c29d6-4917-4b6b-a3e4-c73eb9c25d3d
+
+## ACSE3 L8
+
+https://web.microsoftstream.com/video/4f01f6e5-927c-4f64-9d29-072096c50b36
+
+
+https://web.microsoftstream.com/video/c748af65-deb7-4d40-ab92-09516938de1d
+
+
+https://web.microsoftstream.com/video/dccd829f-cc32-4b26-820d-99a6a2fee549
+
+
+## ACSE3 L7
+https://web.microsoftstream.com/video/219a7a4b-140f-4062-a3a9-4b8d30ea7ac7
+
+
+https://web.microsoftstream.com/video/08f712eb-034f-4e83-b8c7-32df94ffba62
+
+
+https://web.microsoftstream.com/video/9d9d283a-197a-4d9f-b07f-3b0eeb18bea8
+
+
+## ACSE3 L6
+https://web.microsoftstream.com/video/d1aa4457-d345-4e0e-ad32-a95365dd2153
+
+
+https://web.microsoftstream.com/video/4f25d6f0-ba0a-4056-aca8-fccf3ce89b8b
+
+
+https://web.microsoftstream.com/video/fcc8dcca-3877-46ea-8999-7feb269c09f8
+
+
+## ACSE3 L5
+https://web.microsoftstream.com/video/80d178d9-9dfe-48a8-9e69-99669f3a52e7
+
+
+Second part lost
+
+
+https://web.microsoftstream.com/video/7906ed49-65e5-45b6-aece-e9ba8cdf247d
 
 ## ACSE3 L4
 https://web.microsoftstream.com/video/ee8fb62d-67f5-4755-80e8-3327bdd96da8
