@@ -8,6 +8,14 @@ https://web.microsoftstream.com/video/d9f592c5-ee17-4113-88de-5915a6adebfc
 
 https://web.microsoftstream.com/video/67a5de46-ce59-419e-9dad-6ad09e8e4ddd
 
+
+## ACSE Hackathon
+https://web.microsoftstream.com/video/1fd37f07-b7c7-4e1b-8a6f-312d20824c73
+
+https://web.microsoftstream.com/video/7a2f69bf-64de-4309-b3dd-a5136188111e
+
+https://web.microsoftstream.com/video/03df698f-4d10-4668-87a2-cc561f0aed43
+
 ## ACSE3 L12
 https://web.microsoftstream.com/video/e2b84089-e85f-44a5-9bba-38c7c92bef78
 
