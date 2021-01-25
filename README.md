@@ -1,5 +1,22 @@
 # ACSE_Recordings
 The recording links of ACSE20
+## ACSE5 L5
+https://web.microsoftstream.com/video/a57a1c96-7110-4108-9829-74cc5c9be2db
+
+## ACSE5 L4
+https://web.microsoftstream.com/video/07e74406-ce99-47ec-bb47-2667c602f585
+
+## ACSE5 L3
+https://web.microsoftstream.com/video/ce511d53-bfa9-4a65-8a7c-a3eac1f63061
+
+
+## ACSE5 L2
+https://web.microsoftstream.com/video/9a072ef5-7838-480f-8f79-6147658c600c
+
+
+## ACSE5 L1
+https://web.microsoftstream.com/video/2a8a2890-21f9-4266-a057-28fc2f5fe318
+
 
 ## ACSE Git
 https://web.microsoftstream.com/video/e0edd431-dd66-4411-bcda-2d3afc0ad9d3
