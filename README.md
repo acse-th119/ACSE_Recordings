@@ -1,5 +1,11 @@
 # ACSE_Recordings
 The recording links of ACSE20
+
+## ACSE5 L10
+(Q&A for individual assessment)
+https://web.microsoftstream.com/video/a0008459-72f0-43ea-ad0e-72b5d2f205c2
+
+
 ## ACSE5 L9
 https://web.microsoftstream.com/video/dc9fecec-1b1b-4f43-9521-7014005ad7e3
 
