@@ -2,10 +2,11 @@
 The recording links of ACSE20
 
 ## ACSE5 L10
-(Q&A for individual assessment)
-
-
 https://web.microsoftstream.com/video/a0008459-72f0-43ea-ad0e-72b5d2f205c2
+
+
+(Q&A for individual assessment)
+https://web.microsoftstream.com/video/645e14f1-59e4-48a9-881d-d789e0326eb0
 
 
 ## ACSE5 L9
