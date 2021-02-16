@@ -1,6 +1,37 @@
 # ACSE_Recordings
 The recording links of ACSE20
 
+
+## ACSE6 L6
+https://web.microsoftstream.com/video/ac23a37f-edef-4327-be22-170ce9438112
+
+
+## ACSE6 L5
+https://web.microsoftstream.com/video/3143ac31-c71b-4efa-b262-863aadad7de6
+(setting MPI)
+https://web.microsoftstream.com/video/bfcadb7c-8c7f-4de7-8fd2-d999b2c65e04
+
+
+## ACSE6 L4
+https://web.microsoftstream.com/video/482534e0-b06b-4e89-ac2a-fa5926360b04
+
+
+## ACSE6 L3
+https://web.microsoftstream.com/video/54cf4ae7-7b67-4d46-947d-61aa42d12997
+
+
+## ACSE6 L2
+https://web.microsoftstream.com/video/eb2e14d3-838d-459a-95eb-c07533f5b048
+
+
+## ACSE6 L1
+https://web.microsoftstream.com/video/d6520211-7e7c-40cd-b632-6890bfbae1ab
+
+
+## ACSE5 L11
+https://web.microsoftstream.com/video/01875e9d-efab-440c-bccd-22a8f4cbca86
+
+
 ## ACSE5 L10
 https://web.microsoftstream.com/video/a0008459-72f0-43ea-ad0e-72b5d2f205c2
 
