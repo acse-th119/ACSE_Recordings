@@ -1,7 +1,10 @@
 # ACSE_Recordings
 The recording links of ACSE20
 
+## ACSE6 L7
+https://web.microsoftstream.com/video/bf75cd32-e8bd-4aac-a308-f6cf77dc0cb9
 
+https://web.microsoftstream.com/video/38a876ad-1228-4e44-b683-d87eefce2120
 ## ACSE6 L6
 https://web.microsoftstream.com/video/ac23a37f-edef-4327-be22-170ce9438112
 
