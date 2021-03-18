@@ -1,7 +1,7 @@
 # ACSE_Recordings
 The recording links of ACSE20
 ## ACSE7 L11 - 17/Mar
-(FWI part iii)
+(FWI part iii numerical_implementations_of_fwi)
 
 https://web.microsoftstream.com/video/786065de-88aa-47a1-8d62-dde9bfb0f813
 
@@ -10,7 +10,7 @@ https://web.microsoftstream.com/video/188cc59e-ad56-4806-889d-db13c4673579
 https://web.microsoftstream.com/video/243ad4e7-4cd6-4267-a0a9-9eb2815218b0
 
 ## ACSE7 L10 - 16/Mar
-(FWI part ii)
+(FWI part ii devito)
 
 https://web.microsoftstream.com/video/32e5b799-3966-4eec-9e6f-b96252f4b923
 
@@ -30,6 +30,8 @@ https://web.microsoftstream.com/video/c17754c9-51d1-4d1c-bb57-274171c58836
 https://web.microsoftstream.com/video/d0bad1ae-01f9-470b-8da7-9c095e13198c
 
 ## ACSE7 L8 - 11/Mar
+(L8_Data_Assimilation)
+
 https://web.microsoftstream.com/video/0caaca85-19cf-4369-9d81-3636966f696c
 
 https://web.microsoftstream.com/video/2dcd7461-8447-4952-b4dc-87470c098094
@@ -37,6 +39,8 @@ https://web.microsoftstream.com/video/2dcd7461-8447-4952-b4dc-87470c098094
 https://web.microsoftstream.com/video/61eb01f5-86ac-4bf1-abfc-3edb8746d1e8
 
 ## ACSE7 L7 - 10/Mar
+(L7_PDE_Constrained_Optimisation)
+
 https://web.microsoftstream.com/video/8f730c70-6b7e-4e16-a081-cc9b48e096c2
 
 https://web.microsoftstream.com/video/c13934fc-88bf-44a6-a85a-5da0677cfeb0
@@ -44,6 +48,8 @@ https://web.microsoftstream.com/video/c13934fc-88bf-44a6-a85a-5da0677cfeb0
 https://web.microsoftstream.com/video/b8ec0643-5c44-46d1-a7d7-eae452141d21
 
 ## ACSE7 L6 - 9/Mar
+(L6_Constrained_Optimisation)
+
 https://web.microsoftstream.com/video/f2ae5eb6-12c3-4eff-ac2b-edca579ae3fd
 
 https://web.microsoftstream.com/video/46107e20-415c-46b7-9d42-7e4dc26bb7be
@@ -51,6 +57,8 @@ https://web.microsoftstream.com/video/46107e20-415c-46b7-9d42-7e4dc26bb7be
 https://web.microsoftstream.com/video/73409b9f-9d80-4eb6-a334-8e873583902e
 
 ## ACSE7 L5 - 8/Mar
+(L5_Iterative_Solvers_for_Linear_Systems)
+
 https://web.microsoftstream.com/video/1d9bde69-6629-4931-9d36-473fb4085c21
 
 https://web.microsoftstream.com/video/cfd544d1-63a8-4ac2-ba4f-1fd80a7a9274
@@ -58,6 +66,8 @@ https://web.microsoftstream.com/video/cfd544d1-63a8-4ac2-ba4f-1fd80a7a9274
 https://web.microsoftstream.com/video/90f1f308-9a11-4eee-be3c-9d7b51accf46
 
 ## ACSE7 L4 - 4/Mar
+(L4_Gradient_Based_Optimisation)
+
 https://web.microsoftstream.com/video/d486a83d-7b96-4774-9a6a-f9d1085e6e0b
 
 https://web.microsoftstream.com/video/d9b87b25-d7b5-436a-abd2-e604300e3ee5
@@ -65,6 +75,8 @@ https://web.microsoftstream.com/video/d9b87b25-d7b5-436a-abd2-e604300e3ee5
 https://web.microsoftstream.com/video/b1c2ce8d-a22a-4beb-ac27-e2f4a1b16a1a
 
 ## ACSE7 L3 - 3/Mar
+(Gradient_Based_Optimisation)
+
 https://web.microsoftstream.com/video/d2b1276a-fd2c-4ce1-b414-0d5035435ab8
 
 https://web.microsoftstream.com/video/31888098-1714-476d-8af0-3214d2f0b054
@@ -74,6 +86,8 @@ https://web.microsoftstream.com/video/bb3ba799-c319-4182-b789-2cf9afa08b8d
 https://web.microsoftstream.com/video/4ab3505b-8dc7-46d1-b408-b8c5ad39b323
 
 ## ACSE7 L2 - 2/Mar
+（Unconstrained_Optimisation）
+
 https://web.microsoftstream.com/video/96279eda-fa30-418f-9aad-268b42819abf
 
 https://web.microsoftstream.com/video/b579b929-5bd9-4da0-ac17-0e0c87bb29d3
@@ -83,6 +97,8 @@ https://web.microsoftstream.com/video/c21adef8-5e96-44f5-8215-1107023ae84e
 https://web.microsoftstream.com/video/f7c39fc8-b200-4847-b378-db74df054ada
 
 ## ACSE7 L1 - 1/Mar
+（Intro）
+
 https://web.microsoftstream.com/video/a76234d7-4e27-4b6a-a493-54ef3fc19546
 
 https://web.microsoftstream.com/video/92491002-28b3-4f0c-b9d1-68dc085d080c
