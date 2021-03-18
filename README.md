@@ -4,43 +4,62 @@ The recording links of ACSE20
 
 ## ACSE6 L14 (MPI L8) - 26/Feb
 (Coursework Introduction)
+
 https://web.microsoftstream.com/video/fa3975c9-c1fc-4901-bbbd-31cd8786b7b8
 
 ## ACSE6 L13 (MPI L7) - 25/Feb
+(Parallel communication architectures and parallel performance)
+
 https://web.microsoftstream.com/video/3cc4a9b5-80e0-4b83-b4b8-76ec7b90c0cf
 
 ## ACSE6 L12 (MPI L6) - 24/Feb
+(Parallel decomposition)
+
 https://web.microsoftstream.com/video/513521ac-c755-42e2-91a5-cd7a692e0bc7
 
 ## ACSE6 L11 (MPI L5) - 23/Feb
+(One sided communications and Remote Memory Access (RMA))
+
 https://web.microsoftstream.com/video/5adcd254-fa07-4a69-98cb-f38f985b9c2e
 
 ## ACSE6 L10 (MPI L4) - 22/Feb
+(Creating MPI datatype and parallel IO)
+
 https://web.microsoftstream.com/video/4b69f96d-84fb-45e6-a7fb-4f76ad36a111
 
-## ACSE6 L9 (MPI L3)
+## ACSE6 L9 (MPI L3) - 19/Feb
+(Collective Communications)
+
 https://web.microsoftstream.com/video/a717fa09-6f6f-448a-9d26-240723bbb094
 
-## ACSE6 L8 (Building on linux & 2nd HPC tutorial)
+## ACSE6 L8 (Building on linux & 2nd HPC tutorial) - 18/Feb
+(Building on linux & 2nd HPC tutorial)
+
 https://web.microsoftstream.com/video/368a99ba-bb04-42af-9107-da3e70e58b03
+
 https://web.microsoftstream.com/video/d120bd34-95e3-4283-a60e-d37e3a645d6a
+
 https://web.microsoftstream.com/video/1ef8cb2e-be8a-4801-92bb-487a06a4b419
 
-## ACSE6 L7 (MPI L2)
+## ACSE6 L7 (MPI L2) - 17/Feb
+(Non-Blocking Point to Point communications)
 
 https://web.microsoftstream.com/video/bf75cd32-e8bd-4aac-a308-f6cf77dc0cb9
 
 https://web.microsoftstream.com/video/38a876ad-1228-4e44-b683-d87eefce2120
-## ACSE6 L6(MPI L2)
+
+## ACSE6 L6(MPI L1) - 16/Feb
 https://web.microsoftstream.com/video/ac23a37f-edef-4327-be22-170ce9438112
 
 
-## ACSE6 L5
+## ACSE6 L5 - 15/Feb
 (HPC session)
+
 https://web.microsoftstream.com/video/3143ac31-c71b-4efa-b262-863aadad7de6
 
 
 (setting MPI)
+
 https://web.microsoftstream.com/video/bfcadb7c-8c7f-4de7-8fd2-d999b2c65e04
 
 
