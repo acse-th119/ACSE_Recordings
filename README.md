@@ -1,5 +1,12 @@
 # ACSE_Recordings
 The recording links of ACSE20
+## ACSE7 L12 - 19/Mar
+(Global Optimisation Methods)
+
+https://web.microsoftstream.com/video/76445bf3-a45b-4fc7-8722-241b0e2b4709
+
+https://web.microsoftstream.com/video/d51837ea-816e-46e1-a6a7-1e7d5c8921a8
+
 ## ACSE7 L11 - 17/Mar
 (FWI part iii numerical_implementations_of_fwi)
 
