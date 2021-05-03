@@ -1,5 +1,69 @@
 # ACSE_Recordings
 The recording links of ACSE20
+
+## ACSE8 L5 - 30/Apr
+
+### Morning session
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%205%20-%20Theory/ACSE-8%20Theory%20session%203-20210430_090201-Meeting%20Recording.mp4?csf=1&web=1&e=NQMizE
+
+
+(BackProp)
+
+https://imperiallondon.sharepoint.com/sites/ACSE20-EA/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FACSE20%2DEA%2FShared%20Documents%2Facse8%2FTutorials%2F2021%2D04%2D30%20NeuralNetworks%26Backprop%2Emkv&parent=%2Fsites%2FACSE20%2DEA%2FShared%20Documents%2Facse8%2FTutorials
+
+### Exercises
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%205%20-%20Theory/Meeting%20now-20210430_150123-Meeting%20Recording.mp4?csf=1&web=1&e=7CZbIz
+
+## ACSE8 L4 - 29/Apr
+
+### Morning session
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%204%20-%20Implementation/Meeting%20now-20210429_090200-Meeting%20Recording.mp4?csf=1&web=1&e=eRIyEj
+
+### Exercises
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%204%20-%20Implementation/Meeting%20now-20210429_130206-Meeting%20Recording.mp4?csf=1&web=1&e=fVuYKR
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%204%20-%20Implementation/Meeting%20now-20210429_151642-Meeting%20Recording.mp4?csf=1&web=1&e=bnsOjV
+
+## ACSE8 L3 - 28/Apr
+
+### Morning session
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%203%20-%20Theory/Meeting%20now-20210428_090019-Meeting%20Recording.mp4?csf=1&web=1&e=DiHC34
+
+
+
+## ACSE8 L2 - 27/Apr
+
+### Morning session
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%202%20-%20Implementation/Meeting%20now-20210427_090024-Meeting%20Recording.mp4?csf=1&web=1&e=G5hJRx
+
+
+
+### Exercises
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%202%20-%20Implementation/ACSE-8%20Practical%20session%201%20-%20exercises-20210427_130221-Meeting%20Recording.mp4?csf=1&web=1&e=SkSuob
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%202%20-%20Implementation/ACSE-8%20Practical%20session%201%20-%20exercises-20210427_145846-Meeting%20Recording.mp4?csf=1&web=1&e=NIkACE
+
+## ACSE8 L1 - 26/Apr
+### Morning session
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%201%20-%20Theory/ACSE-8%20Theory%20session%201-20210426_090047-Meeting%20Recording.mp4?csf=1&web=1&e=v9vF1F
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%201%20-%20Theory/ACSE-8%20Theory%20session%201-20210426_093750-Meeting%20Recording.mp4?csf=1&web=1&e=zCRcHb
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%201%20-%20Theory/ACSE-8%20Theory%20session%201-20210426_104524-Meeting%20Recording.mp4?csf=1&web=1&e=jL776K
+
+### Exercises
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%201%20-%20Theory/ACSE-8%20Theory%20session%201%20-%20exercises%20(plus%20a%20quick%20intro%20to%20Google%20Colab)-20210426_125942-Meeting%20Recording.mp4?csf=1&web=1&e=JBu8Dx
+
+https://imperiallondon.sharepoint.com/:v:/r/sites/ACSE20-EA/Shared%20Documents/acse8/Recordings/Lecture%201%20-%20Theory/ACSE-8%20Theory%20session%201%20-%20exercises%20(plus%20a%20quick%20intro%20to%20Google%20Colab)-20210426_153056-Meeting%20Recording.mp4?csf=1&web=1&e=7EjYbW
+
+
 ## ACSE7 L12 - 19/Mar
 (Global Optimisation Methods)
 
